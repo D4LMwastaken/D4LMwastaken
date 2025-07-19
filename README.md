@@ -51,7 +51,6 @@ Here are some of the projects I'm working on or have completed:
 
 ## Get in Touch
 
-*   **Email:** jujupan2009@gmail.com
 *   **Discord:** d4lm.
 
 I'm always open to collaborating on interesting projects or learning from others. Feel free to reach out!
