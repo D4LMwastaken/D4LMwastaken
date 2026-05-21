@@ -1,10 +1,6 @@
-![Profile Image](https://github.com/D4LMwastaken/D4LMwastaken/blob/802a50c50f739fedd87f03541966a5d7e1ad28ae/Images/Circle%20Logo.svg)
-
 # D4LM - A coder & student at day and a hacker & gamer at night
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D4LMwastaken&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D4LMwastaken&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=D4LMwastaken&theme=midnight-purple&hide_border=true)
+
 
 ## About Me
 
