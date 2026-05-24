@@ -18,3 +18,6 @@ My current learning goals include preparing to lead my FTC Team #18592 Golden Pr
 I'm always open to collaborating on interesting projects or learning from others. Feel free to reach out!
 
 ---
+
+## Activity Heatmap
+<img src="https://heatmap.shymike.dev/?id=860&timezone=America/New_York"/>
